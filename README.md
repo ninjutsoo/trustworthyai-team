@@ -41,9 +41,9 @@ The migration includes 17 profiles, 11 research directions, 23 publications, 14 
 
 ## GitHub Pages
 
-The workflow at `.github/workflows/pages.yml` builds, checks, and deploys `_site/` on pushes to `main` or a manual workflow run. In repository **Settings → Pages → Build and deployment**, select **GitHub Actions**. The expected destination is https://wsu-trustworthy-ai.github.io/.
+The workflow at `.github/workflows/pages.yml` builds, checks, and deploys `_site/` on pushes to `main` or a manual workflow run. In repository **Settings → Pages → Build and deployment**, select **GitHub Actions**. The expected destination is https://ninjutsoo.github.io/trustworthyai-team/.
 
-The deployment artifact includes only website pages and optimized assets. Source snapshots, reports, original image archives, scripts, and dependencies are excluded. No commit, push, repository setting change, or public deployment was performed as part of the initial local implementation.
+The deployment artifact includes only website pages and optimized assets. Source snapshots, reports, original image archives, scripts, and dependencies are excluded. The repository is `ninjutsoo/trustworthyai-team`. The build accepts `SITE_URL` (set from GitHub Pages in CI) and defaults to the address above. The 404 page uses this base URL so navigation and assets work for missing nested paths.
 
 ## Verification and remaining limits
 

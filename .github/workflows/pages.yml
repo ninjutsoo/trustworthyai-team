@@ -23,10 +23,13 @@ jobs:
           node-version: '22'
           cache: npm
       - run: npm ci
+      - id: pages
+        uses: actions/configure-pages@v5
       - run: npm run build
+        env:
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
       - run: npm run check
       - run: npm run package
-      - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
