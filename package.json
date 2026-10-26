@@ -1,0 +1,28 @@
+{
+  "name": "wsu-trustworthy-ai.github.io",
+  "version": "1.0.0",
+  "description": "Trustworthy AI Lab at Wayne State University — static GitHub Pages website",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check-links.mjs",
+    "check:external": "node scripts/check-links.mjs --external",
+    "package": "node scripts/package.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsu-trustworthy-ai/wsu-trustworthy-ai.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wsu-trustworthy-ai/wsu-trustworthy-ai.github.io/issues"
+  },
+  "homepage": "https://github.com/wsu-trustworthy-ai/wsu-trustworthy-ai.github.io#readme",
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "sharp": "^0.35.5"
+  }
+}
