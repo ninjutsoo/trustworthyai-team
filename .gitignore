@@ -6,6 +6,7 @@ source/*.json
 !source/news.json
 !source/research-summaries.json
 !source/brands.json
+!source/publication-meta.json
 source/contact-sheet.png
 source/summary.txt
 _site/

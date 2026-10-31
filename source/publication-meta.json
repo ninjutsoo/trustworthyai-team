@@ -1,0 +1,198 @@
+{
+  "_comment": "Verified venue/proceedings dates used for Publications sorting. Exact day shown only when a public source confirms it; otherwise month precision is used. Homepage featured papers prioritize recent top venues.",
+  "featuredTitles": [
+    "Towards Mitigating Deceptive Safety Alignment in Large Reasoning Models",
+    "Attention Smoothing Is All You Need For Unlearning",
+    "WalkGPT: Grounded Vision–Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation",
+    "Not All Tokens Are Meant to Be Forgotten",
+    "On Federated Compositional Optimization: Algorithms, Analysis, and Guarantees",
+    "FluenceFormer: Transformer-Driven Multi-Beam Fluence Map Regression for Radiotherapy Planning",
+    "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery"
+  ],
+  "byTitle": {
+    "Towards Mitigating Deceptive Safety Alignment in Large Reasoning Models": {
+      "date": "2026-12-08",
+      "precision": "day",
+      "source": "https://neurips.cc/Conferences/2026/Dates",
+      "note": "NeurIPS 2026 main conference start (Sydney)."
+    },
+    "Hijacking Large Language Models via Adversarial In-Context Learning": {
+      "date": "2026-09-05",
+      "precision": "day",
+      "source": "https://doi.org/10.1007/978-3-032-37673-2_13",
+      "note": "Crossref published-online date for the ECML PKDD 2026 proceedings chapter."
+    },
+    "Learning to Poison Large Language Models During Instruction Tuning": {
+      "date": "2026-12-14",
+      "precision": "day",
+      "source": "https://bigdataieee.org/BigData2026/important-dates/",
+      "note": "IEEE BigData 2026 conference start."
+    },
+    "MedPlex: Deep Vision-Language Co-Adaptation for Clinically Grounded Medical Segmentation": {
+      "date": "2026-11-23",
+      "precision": "day",
+      "source": "https://bmvc2026.bmva.org/dates/",
+      "note": "BMVC 2026 conference start."
+    },
+    "A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery": {
+      "date": "2026-09-04",
+      "precision": "day",
+      "source": "https://doi.org/10.1002/mp.70653",
+      "note": "Crossref published-online date for Medical Physics."
+    },
+    "On Federated Compositional Optimization: Algorithms, Analysis, and Guarantees": {
+      "date": "2026-05-01",
+      "precision": "month",
+      "source": "https://researchwith.njit.edu/en/publications/on-federated-compositional-optimization-algorithms-analysis-and-g/",
+      "note": "TMLR volume listed as 2026-May."
+    },
+    "FluenceFormer: Transformer-Driven Multi-Beam Fluence Map Regression for Radiotherapy Planning": {
+      "date": "2026-07-08",
+      "precision": "day",
+      "source": "https://proceedings.mlr.press/v315/mgboh26a.html",
+      "note": "MIDL 2026 proceedings list conference dates 8–10 Jul."
+    },
+    "WalkGPT: Grounded Vision–Language Conversation with Depth-Aware Segmentation for Pedestrian Navigation": {
+      "date": "2026-06-05",
+      "precision": "day",
+      "source": "https://cvpr.thecvf.com/Conferences/2026/Dates",
+      "note": "CVPR 2026 main conference start."
+    },
+    "Attention Smoothing Is All You Need For Unlearning": {
+      "date": "2026-04-23",
+      "precision": "day",
+      "source": "https://iclr.cc/Conferences/2026",
+      "note": "ICLR 2026 conference start (Rio de Janeiro)."
+    },
+    "Not All Tokens Are Meant to Be Forgotten": {
+      "date": "2026-03-14",
+      "precision": "day",
+      "source": "https://doi.org/10.1609/aaai.v40i44.41156",
+      "note": "AAAI proceedings online publication date."
+    },
+    "Automatic Calibration for Membership Inference Attack on Large Language Models": {
+      "date": "2025-10-27",
+      "precision": "day",
+      "source": "https://ecai2025.org/schedule-at-a-glance/",
+      "note": "ECAI 2025 main conference start."
+    },
+    "GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure": {
+      "date": "2025-10-27",
+      "precision": "day",
+      "source": "https://ecai2025.org/schedule-at-a-glance/",
+      "note": "ECAI 2025 main conference start."
+    },
+    "Generative Large Language Model-Powered Conversational AI App for Personalized Risk Assessment: Case Study in COVID-19": {
+      "date": "2025-03-27",
+      "precision": "day",
+      "source": "https://ai.jmir.org/2025/1/e67363",
+      "note": "JMIR AI published date."
+    },
+    "Generative Large Language Model—Powered Conversational AI App for Personalized Risk Assessment: Case Study in COVID-19": {
+      "date": "2025-03-27",
+      "precision": "day",
+      "source": "https://ai.jmir.org/2025/1/e67363",
+      "note": "JMIR AI published date."
+    },
+    "Interpretability-Aware Vision Transformer": {
+      "date": "2025-06-30",
+      "precision": "month",
+      "source": "https://ieeexplore.ieee.org/",
+      "note": "IJCNN 2025 conference window (late June–early July); month-level date."
+    },
+    "MulModSeg: Enhancing Unpaired Multi-Modal Medical Image Segmentation with Modality-Conditioned Text Embedding and Alternating Training": {
+      "date": "2025-03-01",
+      "precision": "day",
+      "source": "https://openaccess.thecvf.com/content/WACV2025/html/Li_MulModSeg_Enhancing_Unpaired_Multi-Modal_Medical_Image_Segmentation_with_Modality-Conditioned_Text_WACV_2025_paper.html",
+      "note": "WACV 2025 main conference start."
+    },
+    "AutoProSAM: Automated Prompting SAM for 3D Multi-Organ Segmentation": {
+      "date": "2025-03-01",
+      "precision": "day",
+      "source": "https://openaccess.thecvf.com/content/WACV2025/html/Li_AutoProSAM_Automated_Prompting_SAM_for_3D_Multi-Organ_Segmentation_WACV_2025_paper.html",
+      "note": "WACV 2025 main conference start."
+    },
+    "Fairness-aware Vision Transformer via Debiased Self-Attention": {
+      "date": "2024-12-02",
+      "precision": "day",
+      "source": "https://doi.org/10.1007/978-3-031-72913-3_20",
+      "note": "Crossref published-online date for ECCV 2024 proceedings chapter."
+    },
+    "Benchmark and Neural Architecture for Conversational Entity Retrieval from a Knowledge Graph": {
+      "date": "2024-05-13",
+      "precision": "day",
+      "source": "https://doi.org/10.1145/3589334.3645676",
+      "note": "ACM TheWebConf / WWW 2024 DOI date."
+    },
+    "It's not what we were trying to get at, but I think maybe it should be”: Learning how to do trauma-informed design with a data donation platform for online dating sexual violence": {
+      "date": "2024-05-11",
+      "precision": "day",
+      "source": "https://doi.org/10.1145/3613904.3642045",
+      "note": "ACM CHI 2024 DOI date."
+    },
+    "A More Faithful and Accelerated Boundary-based Attribution Method for Deep Neural Networks": {
+      "date": "2024-03-24",
+      "precision": "day",
+      "source": "https://doi.org/10.1609/aaai.v38i15.29669",
+      "note": "AAAI 2024 proceedings online publication date."
+    },
+    "FocalUNETR: A Focal Transformer for Boundary-aware Prostate Segmentation using CT Images": {
+      "date": "2023-10-08",
+      "precision": "day",
+      "source": "https://conferences.miccai.org/2023/en/",
+      "note": "MICCAI 2023 conference window (Vancouver, October 2023)."
+    },
+    "Coupling User Preference with External Rewards to Enable Driver-centered and Resource-aware EV Charging Recommendation": {
+      "date": "2022-09-19",
+      "precision": "day",
+      "source": "https://2022.ecmlpkdd.org/",
+      "note": "ECML PKDD 2022 conference period."
+    },
+    "Saliency guided adversarial training for tackling generalization gap with applications to medical imaging classification system": {
+      "date": "2022-07-17",
+      "precision": "day",
+      "source": "https://icml.cc/Conferences/2022",
+      "note": "ICML 2022 / AdvML workshop period."
+    },
+    "Counterfactual Interpolation Augmentation (CIA): A Unified Approach to Enhance Fairness and Explainability of DNN": {
+      "date": "2022-07-23",
+      "precision": "day",
+      "source": "https://www.ijcai.org/proceedings/2022/",
+      "note": "IJCAI 2022 conference period."
+    },
+    "Tiny RNN Model with Certified Robustness for Text Classification": {
+      "date": "2022-07-18",
+      "precision": "day",
+      "source": "https://ieeexplore.ieee.org/",
+      "note": "IJCNN 2022 conference period."
+    },
+    "Explaining Deep Neural Network Models with Adversarial Gradient Integration": {
+      "date": "2021-08-19",
+      "precision": "day",
+      "source": "https://www.ijcai.org/proceedings/2021/",
+      "venue": "IJCAI",
+      "note": "IJCAI 2021 conference period."
+    },
+    "Tackling multiple ordinal regression problems: sparse and deep multi-task learning approaches": {
+      "date": "2021-03-23",
+      "precision": "day",
+      "source": "https://doi.org/10.1007/s10618-021-00746-8",
+      "venue": "DMKD",
+      "note": "Crossref published-online date for Data Mining and Knowledge Discovery."
+    },
+    "Defending against adversarial attacks on medical imaging AI system, classification or detection": {
+      "date": "2021-04-13",
+      "precision": "day",
+      "source": "https://biomedicalimaging.org/2021/",
+      "venue": "ISBI",
+      "note": "ISBI 2021 conference period."
+    },
+    "Improving adversarial robustness via probabilistically compact loss with logit constraints": {
+      "date": "2021-02-02",
+      "precision": "day",
+      "source": "https://aaai.org/Proceeding/aaai-21/",
+      "venue": "AAAI",
+      "note": "AAAI 2021 conference period."
+    }
+  }
+}
