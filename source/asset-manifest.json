@@ -750,5 +750,91 @@
     "width": 640,
     "height": 133,
     "page": "https://biomedicalimaging.org/2021/"
+  },
+  {
+    "source": "User-provided portrait, October 26, 2026",
+    "local": "assets/images/saleh-zare-zade.webp",
+    "original": "assets/originals/saleh-zare-zade.png",
+    "width": 1920,
+    "height": 2560,
+    "page": "members"
+  },
+  {
+    "source": "User-provided portrait, October 26, 2026",
+    "local": "assets/images/mohammad-amin-roshani.webp",
+    "original": "assets/originals/mohammad-amin-roshani.png",
+    "width": 960,
+    "height": 1280,
+    "page": "members"
+  },
+  {
+    "source": "User-provided portrait, October 26, 2026",
+    "local": "assets/images/xiangyu-zhou.webp",
+    "original": "assets/originals/xiangyu-zhou.png",
+    "width": 1002,
+    "height": 1280,
+    "page": "members"
+  },
+  {
+    "source": "User-provided replacement portrait, October 26, 2026",
+    "local": "assets/images/saleh-zare-zade-headshot.webp",
+    "original": "assets/originals/saleh-zare-zade-headshot.png",
+    "width": 2096,
+    "height": 2560,
+    "page": "members"
+  },
+  {
+    "source": "User-provided portrait, cropped to head and shoulders, October 26, 2026",
+    "local": "assets/images/mohammad-amin-roshani-headshot.webp",
+    "original": "assets/originals/mohammad-amin-roshani.png",
+    "width": 480,
+    "height": 600,
+    "crop": {
+      "left": 260,
+      "top": 300,
+      "width": 480,
+      "height": 600
+    },
+    "page": "members"
+  },
+  {
+    "local": "assets/images/venue-neurips.webp",
+    "original": "assets/originals/venue-neurips.svg",
+    "width": 320,
+    "height": 320,
+    "source": "https://neurips.cc/static/core/img/NIPS-logo.svg",
+    "page": "papers"
+  },
+  {
+    "local": "assets/images/venue-bigdata-2026.webp",
+    "original": "assets/originals/venue-bigdata-2026.png",
+    "width": 589,
+    "height": 320,
+    "source": "https://bigdataieee.org/BigData2026/ieee-bigdata-logo.png",
+    "page": "papers"
+  },
+  {
+    "local": "assets/images/venue-bmvc-2026.webp",
+    "original": "assets/originals/venue-bmvc-2026.png",
+    "width": 640,
+    "height": 198,
+    "source": "https://bmvc2026.bmva.org/assets/images/layout/bmvc-2026-transparent.png",
+    "page": "papers"
+  },
+  {
+    "local": "assets/images/venue-tmlr.webp",
+    "original": "assets/originals/venue-tmlr.jpg",
+    "width": 340,
+    "height": 240,
+    "source": "https://jmlr.org/tmlr/img/tmlr.jpg",
+    "page": "papers"
+  },
+  {
+    "local": "assets/images/venue-medical-physics.webp",
+    "original": "assets/originals/venue-medical-physics.png",
+    "width": 116,
+    "height": 108,
+    "source": "https://www.aapm.org/images/aapm_Q42014.png",
+    "page": "papers"
   }
 ]
